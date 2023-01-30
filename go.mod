@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.5
-	github.com/auth0/go-auth0 v0.6.3
+	github.com/auth0/go-auth0 v0.15.1
 	github.com/briandowns/spinner v1.18.1
 	github.com/charmbracelet/glamour v0.5.0
 	github.com/fsnotify/fsnotify v1.5.4
@@ -25,13 +25,13 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.1
 	github.com/tidwall/pretty v1.2.0
 	github.com/zalando/go-keyring v0.1.1
-	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/oauth2 v0.4.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.4.0
+	golang.org/x/term v0.4.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
